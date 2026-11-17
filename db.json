@@ -1,8 +1,8 @@
 {
   "vakken": [
-    {"id": 1, "naam": "Informatica voor IoT 2", "docent": "..."},
-    {"id": 2, "naam": "Embedded systemen: Connecties", "docent": "..."},
-    {"id": 3, "naam": "Professionele ontwikkeling 2", "docent": "..."}
+    {"id": 1, "naam": "Informatica voor IoT 2", "docent": "Vincent Peters"},
+    {"id": 2, "naam": "Embedded systemen: Connecties", "docent": "Hans Van Gompel"},
+    {"id": 3, "naam": "Professionele ontwikkeling 2", "docent": "Vincent Peters"}
   ],
   "taken": [
     {"id": 1, "titel": "Opdracht 3a: db.json op GitHub en API testen", "vak_id": 1, "deadline": "2026-11-18", "klaar": false},
