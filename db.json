@@ -6,7 +6,7 @@
   ],
   "taken": [
     {"id": 1, "titel": "Opdracht 3a: db.json op GitHub en API testen", "vak_id": 1, "deadline": "2026-11-19", "klaar": true},
-    {"id": 2, "titel": "Opdracht 3a: je planner, data en site", "vak_id": 1, "deadline": "2026-11-20", "klaar": false},
+    {"id": 2, "titel": "Opdracht 3a: je planner, data en site", "vak_id": 1, "deadline": "2026-11-20", "klaar": true},
     {"id": 3, "titel": "OBSERVATIE: Wi-Fi Mesh netwerken", "vak_id": 2, "deadline": "2026-11-20", "klaar": false},
     {"id": 4, "titel": "OBSERVATIE: LoRa P2P en LoRaWAN met Arduino Nesso N1", "vak_id": 2, "deadline": "2026-11-27", "klaar": false},
     {"id": 5, "titel": "Opdracht 3b: eigen API (taken toevoegen, wijzigen, verwijderen)", "vak_id": 1, "deadline": "2026-11-27", "klaar": false},
